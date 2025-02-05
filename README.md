@@ -7,4 +7,4 @@ This project was the culmination of this enjoyable and useful course represented
 
 
 
-![Front End Developer](images/Front_end_developer.jpg)
+![Front End Developer](https://github.com/YourUsername/Conclusion/raw/main/images/Front_end_developer.jpg)
