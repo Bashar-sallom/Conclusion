@@ -7,4 +7,4 @@ This project was the culmination of this enjoyable and useful course represented
 
 
 
-(mages/Front-end developer.jpg)
+![Front End Developer](images/Front_end_developer.jpg)
